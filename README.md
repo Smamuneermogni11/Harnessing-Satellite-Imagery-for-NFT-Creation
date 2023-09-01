@@ -1,3 +1,6 @@
+![LOGO](https://github.com/Smamuneermogni11/NFT_Project/assets/112990273/82568552-472d-4aff-9e50-3a6f3e28d025)
+
+
 # NFT_Project
 GeoVerde is a team of academics and students launching a series of NFT tokens of
 environmentally endangered locations around the world.
