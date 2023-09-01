@@ -1,4 +1,5 @@
-![LOGO](https://github.com/Smamuneermogni11/NFT_Project/assets/112990273/82568552-472d-4aff-9e50-3a6f3e28d025)
+![logo 2](https://github.com/Smamuneermogni11/NFT_Project/assets/112990273/d58f78e5-beca-4814-af96-fd12fe5cdab8)
+
 
 
 # NFT_Project
