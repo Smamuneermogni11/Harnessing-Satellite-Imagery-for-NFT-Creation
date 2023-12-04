@@ -132,49 +132,79 @@ under the UN Declaration of Indigenous rights."
 ## Project Planning and Setup
 ### Create a shared folder in Google Drive or GitHub to keep your project files together
 
-Use Trello or a similar tool to organize tasks and see who is working on what
-Pick a chat app like WhatsApp to stay connected with your team
-Collecting GIS (Geographic Information System) Data using ArcGIS Tools
-Sign up for ArcGIS Online and explore its capabilities
-Learn how to use ArcGIS Notebooks to collect and analyze geographic data
-Create and execute Python scripts in ArcGIS Notebooks to fetch and visualize
-satellite data
-Download and store the collected images for further processing
-### Algorithm Development for NFT Conversion using Visual Studio Code
-Set up Visual Studio Code for coding and ArcGIS Notebooks for scripting
-Research and design the NFT conversion algorithm
-Write Python code for the algorithm in ArcGIS Notebooks and Visual Studio Code
-Use the Pillow library to manipulate images and add metadata to create NFTs
-### Algorithm Testing and Optimization in Visual Studio Code
-Test the algorithm using sample images and data in ArcGIS Notebooks.
-Debug any issues in the algorithm using the debugging tools in both ArcGIS
-Notebooks and Visual Studio Code
-Optimize the code for performance by identifying and refining bottlenecks
-Collaborate with your team to find areas for improvement and optimization
+# Satellite Imagery NFT Creation Workflow
 
-### User Interface Design and Development using Simple App Tools
-Start with a simple app creation tool like Thunkable or Appy Pie
-Draw a sketch of how your app should look, with buttons for uploading images
-and creating NFTs
-Follow the tool's instructions to drag and drop elements to build your app's
-interface
-Experiment with adding buttons, text, and images to your app layout
+This repository presents a comprehensive workflow for creating Non-Fungible Tokens (NFTs) using satellite imagery. The process involves the utilization of NASA's Global Imagery Browse Services (GIBS) for obtaining high-resolution visualizations of Earth Science observations. Additionally, Sentinel Hub is employed to overlay different climatic layers on the satellite image, providing insights into climatic risks. The final step includes uploading the processed image onto the Mintable platform, where an NFT is minted with a gasless transaction on the Ethereum blockchain.
 
-### App Integration and Full Process Testing
-Integrate the NFT conversion algorithm from ArcGIS Notebooks into the app tool
-Configure the app to send images to the NFT algorithm and receive NFTs
-Thoroughly test the app's functionality by simulating user interactions
-Debug and refine the integration to ensure seamless communication
+## Workflow Steps:
 
-### App Refinement and User Testing
-Imagine your app as a bicycle – ride it to find any bumps or wobbles (bugs)
-Share your app with friends or classmates and gather their feedback
-Use their suggestions to fix anything that seems confusing or broken
+### Step 1: GIBS Data Retrieval
 
-### Documentation, Deployment, and Finalization
-Write an easy guide for your project, explaining how it works step by step
-Use your app tool's instructions to create an app package for Android or iOS
-Share your app with friends or upload it to a testing platform to check if it works
-for others
-Double-check everything, make sure it is all working well, and your project is
-good to go!
+1.1 **Introduction to GIBS:**
+   - GIBS provides standardized web services for high-resolution Earth Science observations.
+
+1.2 **Data Exploration:**
+   - Utilize GIBS to download satellite imagery.
+   - Worldview application enables seamless browsing of visualizations.
+
+### Step 2: Sentinel Hub for Climate Analysis
+
+2.1 **Multi-Spectral Imagery:**
+   - Explore multi-band or multi-spectral visualizations using GIBS.
+   - Understand how different spectral band combinations reveal distinct observations.
+
+2.2 **Feature Layer Used (MODIS):**
+   - Utilize MODIS, a special sensor with 36 spectral bands capturing Earth's health.
+
+2.3 **Integration with Sentinel Hub:**
+   - Utilize Sentinel Hub to overlay climatic layers on the satellite image.
+   - Analyze climate-related factors such as cloud cover, aerosols, and vegetation.
+
+### Step 3: Image Processing and Export
+
+3.1 **Scientific Parameter Visualizations:**
+   - Translate scientific measurements into an RGB image.
+   - Visualize data values using a color-coded representation.
+
+3.2 **Export Process:**
+   - Export the processed satellite image as a PNG file.
+
+### Step 4: Upload to Mintable Platform
+
+4.1 **Introduction to Mintable:**
+   - Mintable is a platform for creating, buying, and selling NFTs.
+
+4.2 **Gas-Free Minting:**
+   - Explore the gas-free minting feature on Mintable to reduce or eliminate transaction fees associated with token creation on the Ethereum blockchain.
+
+4.3 **Platform Integration:**
+   - Create a Mintable account using Gmail or Facebook credentials.
+   - Set up a Metamask wallet and connect it to the Mintable platform for secure transactions.
+
+### Step 5: NFT Minting
+
+5.1 **Customizable Smart Contracts:**
+   - Mintable allows creators to customize smart contracts for their NFTs.
+   - Features such as royalties and unlockable content can be configured.
+
+5.2 **Gasless Transaction:**
+   - Mint the NFT using a gasless transaction on the Ethereum blockchain.
+   - Leverage MetaMask wallet for a seamless and secure minting process.
+
+### Step 6: Marketplace Interaction
+
+6.1 **Marketplace Exploration:**
+   - Explore the Mintable marketplace to view and interact with the minted NFT.
+   - Engage in transactions using cryptocurrencies.
+
+## Script Execution and Further Improvements
+
+- The provided Jupyter Notebook can be executed in Google Colab for seamless script execution.
+- Consider exploring additional satellite data sources and visualizations for enhanced analysis.
+- Investigate other blockchain networks for potential cost savings or additional features.
+
+## Contributions
+
+Contributions and feedback are encouraged! Open issues or pull requests for continuous improvement.
+
+**Happy coding and minting!**
