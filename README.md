@@ -218,6 +218,10 @@ Note : as the above mentioned ID and secret key might not work
 
 Link: https://github.com/Smamuneermogni11/Harnessing-Satellite-Imagery-for-NFT-Creation/blob/main/Satellite_Imagery_to_NFT_minting.ipynb.zip
 
+Go to Google Colab: https://colab.research.google.com/
+
+Upload this notebook and run it
+
 - The provided Jupyter Notebook can be executed in Google Colab for seamless script execution.
 - Consider exploring additional satellite data sources and visualizations for enhanced analysis.
 - Investigate other blockchain networks for potential cost savings or additional features.
