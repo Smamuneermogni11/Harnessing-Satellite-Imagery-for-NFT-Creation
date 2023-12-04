@@ -160,6 +160,9 @@ This repository presents a comprehensive workflow for creating Non-Fungible Toke
    - Utilize Sentinel Hub to overlay climatic layers on the satellite image.
    - Analyze climate-related factors such as cloud cover, aerosols, and vegetation.
 
+![32f59ea543ac0c19a0098508dc10ae8ef28d8c42](https://github.com/Smamuneermogni11/Harnessing-Satellite-Imagery-for-NFT-Creation/assets/112990273/14ce7f3c-ea83-40c0-99a6-f3dbfaafdca1)
+
+
 ### Step 3: Image Processing and Export
 
 3.1 **Scientific Parameter Visualizations:**
@@ -181,6 +184,9 @@ This repository presents a comprehensive workflow for creating Non-Fungible Toke
    - Create a Mintable account using Gmail or Facebook credentials.
    - Set up a Metamask wallet and connect it to the Mintable platform for secure transactions.
 
+![1ede9c808411b6d3e87930185b0d6fdcda9e2da7](https://github.com/Smamuneermogni11/Harnessing-Satellite-Imagery-for-NFT-Creation/assets/112990273/91d8901a-2b51-45e5-ab2b-25387862cf9b)
+
+
 ### Step 5: NFT Minting
 
 5.1 **Customizable Smart Contracts:**
@@ -191,11 +197,17 @@ This repository presents a comprehensive workflow for creating Non-Fungible Toke
    - Mint the NFT using a gasless transaction on the Ethereum blockchain.
    - Leverage MetaMask wallet for a seamless and secure minting process.
 
+![44a5ed840a889fd59195b714ac115751537b1158](https://github.com/Smamuneermogni11/Harnessing-Satellite-Imagery-for-NFT-Creation/assets/112990273/149379b7-0db7-4b64-bc8d-1994599f47da)
+
+
 ### Step 6: Marketplace Interaction
 
 6.1 **Marketplace Exploration:**
    - Explore the Mintable marketplace to view and interact with the minted NFT.
    - Engage in transactions using cryptocurrencies.
+
+<img width="1498" alt="Screenshot 2023-12-03 at 5 44 11 AM" src="https://github.com/Smamuneermogni11/Harnessing-Satellite-Imagery-for-NFT-Creation/assets/112990273/56cfb79e-1b57-4d15-a9b1-2d02abbf74df">
+
 
 ## Script Execution and Further Improvements
 
