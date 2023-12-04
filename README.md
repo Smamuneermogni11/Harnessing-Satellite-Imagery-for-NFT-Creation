@@ -211,6 +211,13 @@ This repository presents a comprehensive workflow for creating Non-Fungible Toke
 
 ## Script Execution and Further Improvements
 
+Download the Jupyter Notebook and make sure to change the client ID and Client Secret Key by creating an online account in Sentinel Hub 
+https://www.sentinel-hub.com/
+
+Note : as the above mentioned ID and secret key might not work
+
+Link: https://github.com/Smamuneermogni11/Harnessing-Satellite-Imagery-for-NFT-Creation/blob/main/Satellite_Imagery_to_NFT_minting.ipynb.zip
+
 - The provided Jupyter Notebook can be executed in Google Colab for seamless script execution.
 - Consider exploring additional satellite data sources and visualizations for enhanced analysis.
 - Investigate other blockchain networks for potential cost savings or additional features.
